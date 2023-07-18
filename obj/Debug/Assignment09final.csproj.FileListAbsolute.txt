@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\bin\Debug\Assignment09final.exe.config
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\bin\Debug\Assignment09final.exe
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\bin\Debug\Assignment09final.pdb
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\obj\Debug\Assignment09final.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\obj\Debug\Assignment09final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\obj\Debug\Assignment09final.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\obj\Debug\Assignment09final.exe
+C:\Users\Lenovo\source\repos\Assignment09final\Assignment09final\obj\Debug\Assignment09final.pdb
